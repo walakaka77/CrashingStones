@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d09caa50-0b10-4f84-a5c5-e16c98e696d9": {
+      "ProjectGuid": "d09caa50-0b10-4f84-a5c5-e16c98e696d9",
+      "DisplayName": "CrashingStones2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

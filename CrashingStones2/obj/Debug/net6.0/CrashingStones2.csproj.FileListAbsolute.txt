@@ -1,0 +1,15 @@
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\bin\Debug\net6.0\CrashingStones2.exe
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\bin\Debug\net6.0\CrashingStones2.deps.json
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\bin\Debug\net6.0\CrashingStones2.runtimeconfig.json
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\bin\Debug\net6.0\CrashingStones2.dll
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\bin\Debug\net6.0\ref\CrashingStones2.dll
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\bin\Debug\net6.0\CrashingStones2.pdb
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\obj\Debug\net6.0\CrashingStones2.csproj.AssemblyReference.cache
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\obj\Debug\net6.0\CrashingStones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\obj\Debug\net6.0\CrashingStones2.AssemblyInfoInputs.cache
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\obj\Debug\net6.0\CrashingStones2.AssemblyInfo.cs
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\obj\Debug\net6.0\CrashingStones2.csproj.CoreCompileInputs.cache
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\obj\Debug\net6.0\CrashingStones2.dll
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\obj\Debug\net6.0\ref\CrashingStones2.dll
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\obj\Debug\net6.0\CrashingStones2.pdb
+C:\Users\Walakaka\source\repos\CrashingStones2\CrashingStones2\obj\Debug\net6.0\CrashingStones2.genruntimeconfig.cache
